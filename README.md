@@ -32,4 +32,5 @@ Figure 3. System architecture diagram
 
 ![demoUI](https://user-images.githubusercontent.com/50594187/102038653-2a4a3200-3e0b-11eb-8e1f-82747d0809d0.png)
 
+[![Video Label](https://youtu.be/FtAehEGKarQ/0.png)](https://youtu.be/FtAehEGKarQ)
 Figure 4. Demo program UI
