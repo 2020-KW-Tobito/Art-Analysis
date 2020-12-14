@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Tobito</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="{{url_for('static', filename='css/bootstrap.min.css')}}" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="{{url_for('static', filename='css/mdb.min.css')}}" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="{{url_for('static', filename='css/style.min.css')}}" rel="stylesheet">
+  <!-- 나눔 바른 고딕 웹 폰트 적용하기 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css">
+  <style type="text/css">
+
+    html,
+    body,
+    header,
+    .carousel {
+      height: 100%;
+    }
+
+    @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #1C2331!important;
+            }
+        }
+
+    .hangul {
+        font-family: 'Nanum Barun Gothic' !important;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-darkca scrolling-navbar">
+    <div class="container">
+
+      <!-- Brand -->
+      <a class="navbar-brand" href="#">
+        <strong class="hangul">TOBITO</strong>
+      </a>
+
+      </div>
+
+    </div>
+  </nav>
+  <!-- Navbar -->
+
+  <!--Carousel Wrapper-->
+  <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
+
+    <!--Indicators-->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-1z" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel-example-1z" data-slide-to="1"></li>
+    </ol>
+    <!--/.Indicators-->
+
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+
+      <!--First slide-->
+      <div class="carousel-item active">
+        <div class="view">
+
+          <!--Video source-->
+          <video class="video-intro" autoplay loop>
+            <source src="https://mdbootstrap.com/img/video/city.mp4" type="video/mp4" >
+          </video>
+
+          <!-- Mask & flexbox options-->
+          <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+
+            <!-- Content -->
+            <div id="start "class="text-center white-text mx-5 wow fadeIn">
+              <h1 class="mb-4">
+                <strong style="font-family: 'Nanum Barun Gothic'">AI for ArtTherapy</strong>
+              </h1>
+
+              <p>
+                <strong style="font-family: 'Nanum Barun Gothic'">지쳐있는 모두를 위한 미술치료 그림 분석 인공지능 프로그램</strong>
+              </p>
+
+              <a target="_blank" style="scroll-behavior: smooth" href="/Test/House" class="btn btn-outline-white btn-lg">시작하기
+              </a>
+            </div>
+            <!-- Content -->
+
+          </div>
+          <!-- Mask & flexbox options-->
+        </div>
+      </div>
+      <!--/First slide-->
+
+      <!--Third slide-->
+      <div class="carousel-item">
+        <div class="view">
+          <!--Video source-->
+          <video class="video-intro" autoplay loop>
+              <source src="https://mdbootstrap.com/img/video/Tropical.mp4" type="video/mp4">
+          </video>
+          <!-- Mask & flexbox options-->
+          <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+            <!-- Content -->
+            <div class="text-center white-text mx-5 wow fadeIn">
+              <h1 class="mb-4">
+                <strong style="font-family: 'Nanum Barun Gothic'">AI for ArtTherapy</strong>
+              </h1>
+              <p>
+                <strong style="font-family: 'Nanum Barun Gothic'">지쳐있는 모두를 위한 미술치료 그림 분석 인공지능 프로그램</strong>
+              </p>
+              <a target= "_blank" href="/Test/House" class="btn btn-outline-white btn-lg">시작하기
+              </a>
+            </div>
+            <!-- Content -->
+          </div>
+          <!-- Mask & flexbox options-->
+        </div>
+      </div>
+      <!--/Third slide-->
+    </div>
+    <!--/.Slides-->
+
+    <!--Controls-->
+    <a class="carousel-control-prev" href="#carousel-example-1z" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carousel-example-1z" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    <!--/.Controls-->
+  </div>
+  <!--/.Carousel Wrapper-->
+
+
+
+
+  <!--Main layout-->
+  <main>
+    <div class="container">
+
+      <section class="mt-5 wow fadeIn">
+        <div class="text-center">
+          <p>play music!</p>
+            <iframe src="" allow="autoplay" style="display:none"></iframe> 
+            <audio autoplay controls loop>
+              <source src="{{url_for('static', filename='music/HindenburgLover.mp3')}}" type="audio/mp3">
+            </audio>
+        </div>
+
+        <br><br>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <!-- Main heading -->
+            <br>
+            <h3 class="h3 mb-5" style="font-family: 'Nanum Barun Gothic'">AI for ArtTherapy</h3>
+            </br><br>
+            <p style="font-family: 'Nanum Barun Gothic'">딥러닝 기술이,<br/> 학습을 통해 스케치를 설명할 수 있을까요?</p>
+            <!-- Main heading -->
+            <p style="font-family: 'Nanum Barun Gothic'">
+            <br>
+            TOBITO는 House, Tree, Person 스케치를 분석하여 캡션을 출력해줍니다.
+            </p>
+          </div>
+
+          <div class="col-md-6 mb-4">
+            <br><br>
+            <img style="position: absolute;left: 120px"src="{{url_for('static', filename='img/htp.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <br>
+      <hr class="my-5">
+      <section class="mt-5 wow fadeIn">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-12 mb-4">
+            <!-- Main heading -->
+            <h3 class="h3 mb-5" style="font-family: 'Nanum Barun Gothic'">HTP test</h3>
+            <!-- Main heading -->
+            <p>
+            ‘그림’은 인간의 기본적인 언어라고 할 수 있습니다.<br>문자가 생기기 훨씬 이전부터 사람들은 벽화나 토기의 그림 등을 통해서 자신의 감정과 행동을 기록해 두었습니다.<br>그림을 그릴 때 사람은 자기도 모르게 스스로 생각하고 있는 자기의 모습, 혹은 자기가 되고 싶은 모습을 드러내는 경향이 있습니다.
+            </p>
+            <p>
+              우리 주위의 여러 가지 대상들 중에서도 ‘집’, ‘나무’, ‘사람’ 등은 누구에게나 친숙하면서 한편으로는 상징성이 강한 대상입니다.<br>이런 대상들에는 독특한 정서적, 표상적 경험이 쉽게 스며들면서 하나의 상징체를 형성하게 됩니다.<br>우리는 이러한 상들을 그려보게 함으로써, 피검자의 경험을 ‘투사’라는 형태로 만날 수 있는 하나의 방법을 얻을 수 있습니다.
+            </p>
+
+<!--             <hr>
+              1948년에 정신분석가인 Buck에 의해 개발된 HTP그림검사는 어린이, 청소년, 성인에 이르기까지 자신의 내면세계를 표현하고 마음상태를 통찰할 수 있는 유익한 검사입니다. 국가는 건전한 소비행위를 계도하고 생산품의 품질향상을 촉구하기 위한 소비자보호운동을 법률이 정하는 바에 의하여 보장한다. 이 헌법에 의한 최초의 대통령의 임기는 이 헌법시행일로부터 개시한다. 대통령은 제4항과 제5항의 규정에 의하여 확정된 법률을 지체없이 공포하여야 한다. 제5항에 의하여 법률이 확정된 후 또는 제4항에 의한 확정법률이 정부에 이송된 후 5일 이내에 대통령이 공포하지 아니할 때에는 국회의장이 이를 공포한다.
+
+              모든 국민은 신체의 자유를 가진다. 누구든지 법률에 의하지 아니하고는 체포·구속·압수·수색 또는 심문을 받지 아니하며, 법률과 적법한 절차에 의하지 아니하고는 처벌·보안처분 또는 강제노역을 받지 아니한다. 행정각부의 설치·조직과 직무범위는 법률로 정한다. 대통령의 임기연장 또는 중임변경을 위한 헌법개정은 그 헌법개정 제안 당시의 대통령에 대하여는 효력이 없다.
+            </p> -->
+          </div>
+          
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5">
+
+      <section class="mt-5 wow fadeIn">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <br/><br><br><br>
+            <img src="{{url_for('static', filename='img/model.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+
+          <div class="col-md-6 mb-4">
+            <!-- Main heading -->
+            <h3 class="h3 mb-3" style="position: absolute; left:250px; font-family: 'Nanum Barun Gothic'">Result</h3></br><br><br><br><br>
+            <p style="font-family: 'Nanum Barun Gothic'">해당 프로젝트에 사용된 모델은<br>CNN네트워크를 통하여 스케치 정보를 압축하고,<br/>RNN네트워크를 사용하여 압축된 스케치를 자연어로 설명해주는 모델입니다.</p>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+
+        <div class="row">
+          <div class="col-md-6 mb-4">
+            <br/>
+            <img src="{{url_for('static', filename='img/Result.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+          <div class="col-md-6 mb-4">
+            <br><br>
+            <p style="font-family: 'Nanum Barun Gothic'">
+              TU-Berlin Dataset을 활용하여 캡션 정보를 추가하고,<br>
+              BLEU정확도 측정결과 67의 성능을 보이는 스케치 분석 모델을 개발했습니다.
+            </p>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6 mb-4">
+          <h3 class="h3 mb-3" style="font-family: 'Nanum Barun Gothic'">BLEU score</h3>
+            <br/>
+            <img src="{{url_for('static', filename='img/BLEU.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+          <div class="col-md-6 mb-4">
+            <br><br><br><br>
+            <p style="font-family: 'Nanum Barun Gothic'">
+              BLEU점수는 60점 이상의 점수에서 대체적으로 사람보다 우수한 품질을 보입니다.
+            </p>
+          </div>
+        </div>
+        <hr>
+
+      </section>
+      <!--Section: Main info-->
+
+      <section class="mt-5 wow fadeIn">
+        <h3 class="h3 mb-3" style="font-family: 'Nanum Barun Gothic'">Developer</h3><br>
+
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <img style="border-radius: 100px" src="{{url_for('static', filename='img/P.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+          <div class="col-md-4 mb-4">
+            <img style="border-radius: 100px" src="{{url_for('static', filename='img/P.png')}}" class="img-fluid z-depth-1-half" alt="">
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <p style="font-family: 'Nanum Barun Gothic'">Department of Software<br>권나성</p>
+          </div>
+          <div class="col-md-4 mb-4">
+            <p style="font-family: 'Nanum Barun Gothic'">Department of Software<br>김수빈
+          </div>
+        </div>
+
+      </section>
+      <!--Section: Main info-->
+
+    </div>
+
+      <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+      </div>
+  </main>
+  <!--Main layout-->
+
+
+
+
+
+  <!--Footer-->
+  <footer class="page-footer text-center font-small mt-4 wow fadeIn">
+    <!--Call to action-->
+    <div class="pt-4">
+      <a style="scroll-behavior: smooth" onclick="document.documentElement.scrollTop = 0" class="btn btn-outline-white btn-lg">맨 위로</a>
+    </div>
+    <!--/.Call to action-->
+    <br>
+
+
+    <hr class="my-4">
+  </footer>
+  <!--/.Footer-->
+
+  <!-- SCRIPTS -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="{{url_for('static', filename='js/jquery-3.3.1.min.js')}}"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="{{url_for('static', filename='js/popper.min.js')}}"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="{{url_for('static', filename='js/mdb.min.js')}}"></script>
+  <!-- Initializations -->
+  <script type="text/javascript">
+    // Animations initialization
+    new WOW().init();
+  </script>
+
+</body>
+
+</html>

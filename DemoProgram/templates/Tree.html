@@ -1,0 +1,47 @@
+{% extends 'Test.html' %}
+{% block content %}
+<h3 class="h3 text-center mb-5" style="font-family: 'Nanum Barun Gothic'">AI for ArtTherapy</h3>
+
+<h5 class="h5 text-center mb-5" style="font-family: 'Nanum Barun Gothic'">TREE</h5>
+
+<div>
+          <!--Grid column-->
+        <form action="/Test/Result" class="row wow fadeIn" enctype="multipart/form-data" method="post">
+                <!-- Default form group -->
+                    <!-- Default input -->
+          <div class="form-group col-lg-6 col-md-12 px-4">
+                  <label style="font-family: 'Nanum Barun Gothic'" for="formGroupExampleInput">Tree</label>
+                  <input type="file" name="Tree_file" class="form-control" id="formGroupExampleInput">
+          </div>
+
+
+          <div class="form-group col-lg-6 col-md-12 px-4">
+              <p>
+                <label>이 나무는 몇살정도 되었습니까?</label>
+                <input type="input" name="Tree_3" placeholder="나무의 나이를 적어주세요">
+              </p>
+
+              <p>
+                <label>지금 계절은 언제입니까?</label>
+                <input type="radio" name="Tree_1">
+                <input type="radio" name="Tree_1">
+                <input type="radio" name="Tree_1">
+                <input type="radio" name="Tree_1">
+              </p>
+              <p>
+                <label>나무가 사람처럼 감정이 있다면,<br>지금 이 나무의 기분은 어떤가요?</label><br>
+                <input type="input" name="Tree_3" placeholder="나무의 기분을 설명해주세요">
+              </p>
+
+          </div>
+
+        <button style="font-family: 'Nanum Barun Gothic' !important;" type="submit" class="btn btn-primary btn-md pull-right">다음</button>
+
+        </form>
+
+          <!--/Grid column-->
+
+  </div>
+
+  
+{% endblock %}

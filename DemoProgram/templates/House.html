@@ -1,0 +1,46 @@
+{% extends 'Test.html' %}
+{% block content %}
+<!-- <style type="text/css">
+  div#loading { 
+ width: 35px; 
+ height: 35px; 
+ display: none; 
+ background: url(/static/loadingimage.gif) no-repeat; 
+ cursor: wait; 
+ } 
+</style> -->
+<h4 class="h4 text-center mb-5" style="font-family: 'Nanum Barun Gothic'">HTP</h4>
+<div>
+          <!--Grid column-->
+        <form action="/Test/Result" class="row wow fadeIn" enctype="multipart/form-data" method="post">
+                <!-- Default form group -->
+                    <!-- Default input -->
+          <div id="loading"></div> 
+          <div class="form-group col-lg-12 col-md-12 px-4">
+              <label style="font-family: 'Nanum Barun Gothic'" for="formGroupExampleInput">집을 그려보세요</label><br>
+              <input type="file" name="file" class="form-control" id="formGroupExampleInput">
+          </div>
+          <div class="form-group col-lg-12 col-md-12 px-4">
+              <label style="font-family: 'Nanum Barun Gothic'" for="formGroupExampleInput">나무를 그려보세요</label><br>
+              <input type="file" name="fTree" class="form-control" id="formGroupExampleInput">
+          </div>
+          <div class="form-group col-lg-12 col-md-12 px-4">
+              <label style="font-family: 'Nanum Barun Gothic'" for="formGroupExampleInput">사람을 그려보세요</label><br>
+              <input type="file" name="fPerson" class="form-control" id="formGroupExampleInput">
+          </div>
+          <div class="form-group col-lg-12 col-md-12 px-4 center">
+            <br><br>
+              <p>
+              <input class="col-lg-12 col-md-12 px-4 center" type="radio" name="test_name" value="house" checked>
+              </p>
+
+            <button style="font-family: 'Nanum Barun Gothic' !important;" type="submit" class="btn btn-primary btn-md  center" onclick="loading()">다음</button>
+          </div>
+        </form>
+
+          <!--/Grid column-->
+
+  </div>
+
+  
+{% endblock %}
