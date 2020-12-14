@@ -1,0 +1,479 @@
+8801.png	<start> A House has a chimney, windows and door . <end>
+8802.png	<start> A House has a chimney, windows and door . <end>
+8803.png	<start> A House has a window without door and chimney . <end>
+8804.png	<start> A House has windows and door without chimney . <end>
+8805.png	<start> A House has a chimney, many windows and door . <end>
+8806.png	<start> A House has windows and door without chimney . <end>
+8807.png	<start> A House has windows and door without window . <end>
+8808.png	<start> A House has windows and door without chimney . <end>
+8809.png	<start> A House has a chimney, windows and door . <end>
+8810.png	<start> A House has a chimney, windows and door . <end>
+8811.png	<start> A House has a chimney, many windows and door . <end>
+8812.png	<start> A House has a chimney, windows and door . <end>
+8813.png	<start> A House has a chimney, windows and door . <end>
+8814.png	<start> A House has a window and door without chimney . <end>
+8815.png	<start> A House has a chimney and door without window . <end>
+8816.png	<start> A House has a chimney, many windows and door . <end>
+8817.png	<start> A House has a chimney, windows and door . <end>
+8818.png	<start> A House has windows without chimney and door . <end>
+8819.png	<start> A House has a window and door without chimney . <end>
+8820.png	<start> A House has a chimney, windows and door . <end>
+8821.png	<start> A House has a chimney, window and door . <end>
+8822.png	<start> A House has a chimney, many windows and door . <end>
+8823.png	<start> A House has many windows and door without chimney . <end>
+8824.png	<start> A House has a window and door without chimney . <end>
+8825.png	<start> A House has a chimney, windows and door . <end>
+8826.png	<start> A House has a chimney, windows and door . <end>
+8827.png	<start> A House has a door without chimney and window .  <end>
+8828.png	<start> A House has a window and door without chimney . <end>
+8829.png	<start> A House has many windows and door without chimney . <end>
+8830.png	<start> A House has a door without chimney and window . <end>
+8831.png	<start> A House has windows and door without chimney . <end>
+8832.png	<start> A House has many windows and door without chimney . <end>
+8833.png	<start> A House has many windows and door without chimney . <end>
+8834.png	<start> A House has door without chimney and window . <end>
+8835.png	<start> A House has windows and door without chimney . <end>
+8836.png	<start> A House has windows and door without chimney . <end>
+8837.png	<start> A House has windows and door without chimney . <end>
+8838.png	<start> A House has windows and door without chimney . <end>
+8839.png	<start> A House has windows and door without chimney . <end>
+8840.png	<start> A House has a chimney, windows and door . <end>
+8841.png	<start> A House has windows and door without chimney . <end>
+8842.png	<start> A House has a door without chimney and window . <end>
+8843.png	<start> A House has windows and door without chimney . <end>
+8844.png	<start> A House has windows and door without chimney . <end>
+8845.png	<start> A House has windows and door without chimney . <end>
+8846.png	<start> A House has not window, door and chimney . <end>
+8847.png	<start> A House has many windows and door without chimney . <end>
+8848.png	<start> A House has a window and door without chimney . <end>
+8849.png	<start> A House has windows and door without chimney . <end>
+8850.png	<start> A House has a chimney, windows and door . <end>
+8851.png	<start> A House has a chimney, windows and door . <end>
+8852.png	<start> A House has a window and door without chimney . <end>
+8853.png	<start> A House has windows and door without chimney . <end>
+8854.png	<start> A House has windows and door without chimney . <end>
+8855.png	<start> A House has a chimney, windows and door . <end>
+8856.png	<start> A House has a window and door without chimney . <end>
+8857.png	<start> A House has a chimney, windows and door . <end>
+8858.png	<start> A House has windows and door without chimney . <end>
+8859.png	<start> A House has windows and door without chimney . <end>
+8860.png	<start> A House has many window and door without chimney . <end>
+8861.png	<start> A House has windows and door without chimney . <end>
+8862.png	<start> A House has a chimney, windows and door . <end>
+8863.png	<start> A House has windows and door without chimney . <end>
+8864.png	<start> A House has a chimney, windows and door . <end>
+8865.png	<start> A House has windows and door without chimney . <end>
+8866.png	<start> A House has many windows and door without chimney . <end>
+8867.png	<start> A House has windows and door without chimney .  <end>
+8868.png	<start> A House has windows and door without chimney .  <end>
+8869.png	<start> A House has a window and door without chimney .  <end>
+8870.png	<start> A House has a door and chimney without window . <end>
+8871.png	<start> A House has windows and door without chimney . <end>
+8872.png	<start> A House has a door and chimney without window . <end>
+8873.png	<start> A House has a chimney, windows and door . <end>
+8874.png	<start> A House has a chimney, windows and door . <end>
+8875.png	<start> A House has a chimney, windows and door . <end>
+8876.png	<start> A House has a window and door without chimney . <end>
+8877.png	<start> A House has a chimney, window and door . <end>
+8878.png	<start> A House has a window and door without chimney . <end>
+8879.png	<start> A House has windows without chimney and door . <end>
+8880.png	<start> A House has a chimney, windows and door . <end>
+8801.png	<start> A house has a door , windows and chimney . <end>
+8802.png	<start> A house has a door , windows and chimney . <end>
+8803.png	<start> A house has a window without door . <end>
+8804.png	<start> A house has a door and windows without chimney . <end>
+8805.png	<start> A house has a chimney , door and many windows . <end>
+8806.png	<start> A house has a door and windows without chimney . <end>
+8807.png	<start> A house has a door . <end>
+8808.png	<start> A hous has door and windows without roof . <end>
+8809.png	<start> A house has a door , windows and chimney . <end>
+8810.png	<start> A house has a door windows and chimney . <end>
+8811.png	<start> A house has a door and big chimney with many windows . <end>
+8812.png	<start> A house has a chimney , door and window . <end>
+8813.png	<start> A house has a door , windows and chimney . <end>
+8814.png	<start> A house has a door and window without chimney . <end>
+8815.png	<start> There are many houses . <end>
+8816.png	<start> A house has a door , chimney and many windows . <end>
+8817.png	<start> A house has a door , window and chimney . <end>
+8818.png	<start> A house has windows without door . <end>
+8819.png	<start> A house has a door and windows . <end>
+8820.png	<start> A house has a door , chimney and windows . <end>
+8821.png	<start> A house has a door , window and chimney . <end>
+8822.png	<start> A house has a door and chimney and windows . <end>
+8823.png	<start> There are many houses which have windows . <end>
+8824.png	<start> A house has a door and window . <end>
+8825.png	<start> A house has a door , window and chimney . <end>
+8826.png	<start> A house has a door , chimney and windows . <end>
+8827.png	<start> A house has a door withot window and chimney . <end>
+8828.png	<start> A house has a door and window without chimney . <end>
+8829.png	<start> A house has a door and many windows without chimney . <end>
+8830.png	<start> A house has a door and windows without chimney . <end>
+8831.png	<start> A house has a door without chimney and window . <end>
+8832.png	<start> There are many houses which have door and many windows without chimney . <end>
+8833.png	<start> There are many houses which have windows without door and chimney . <end>
+8834.png	<start> A house has a door without windows and chimney . <end>
+8835.png	<start> A house has a door and windows without chimney . <end>
+8836.png	<start> A house has a door and windows without chimney . <end>
+8837.png	<start> A house has a door and windows without chimney . <end>
+8838.png	<start> A house has a door and windows without chimney . <end>
+8839.png	<start> A house has a door and window without chimney . <end>
+8840.png	<start> A house has a door , windows and chimney . <end>
+8841.png	<start> A house has a house , door and windows . <end>
+8842.png	<start> A house has a door with square without chimney and window . <end>
+8843.png	<start> A house has a door and windows without chimney . <end>
+8844.png	<start> A house has a door and windows without chimney . <end>
+8845.png	<start> A house has a door , window and house without chimney . <end>
+8846.png	<start> A house has no door, window and chimney . <end>
+8847.png	<start> A house has a door and windows without chimney . <end>
+8848.png	<start> A house has a door and window without chimney . <end>
+8849.png	<start> A house has a door and windows without chimney . <end>
+8850.png	<start> A house has a door , windows and chimney . <end>
+8851.png	<start> A house has a door , windows and chimney . <end>
+8852.png	<start> A house has a door and window without chimney . <end>
+8853.png	<start> A house has a door a window without chimney . <end>
+8854.png	<start> A house has a door and windows without chimney . <end>
+8855.png	<start> A house has a door , windows and chimney . <end>
+8856.png	<start> A house has a door and window without chimney . <end>
+8857.png	<start> A house has a door , windows and chimney . <end>
+8858.png	<start> A house has a door and windows without chimney . <end>
+8859.png	<start> A house has a door , windows and house without chimney . <end>
+8860.png	<start> A house has a door and windows without chimney . <end>
+8861.png	<start> A house has a door and window without chimney . <end>
+8862.png	<start> A house has a door , windows and chimney . <end>
+8863.png	<start> A house has a door and windows without chimney . <end>
+8864.png	<start> A house has a door , windows and chimney . <end>
+8865.png	<start> A house has a door and windows without chimney . <end>
+8866.png	<start> A house has a door and windows without chimney . <end>
+8867.png	<start> A house has a door and window without chimney . <end>
+8868.png	<start> A house has a door and windows without chimney . <end>
+8869.png	<start> A house has a door and window without chimney . <end>
+8870.png	<start> A house has a door and chimney without window . <end>
+8871.png	<start> A house has a door and windows without chimney . <end>
+8872.png	<start> A house has a door without window and chimney . <end>
+8873.png	<start> A house has a door , windows , chimney and road . <end>
+8874.png	<start> A house has a door , windows and chimney . <end>
+8875.png	<start> A house has a door , windows and chimney . <end>
+8876.png	<start> A house has a door and window without chimney . <end>
+8877.png	<start> A house has a door , window and chimney . <end>
+8878.png	<start> A house has a door and window without chimney . <end>
+8879.png	<start> A house has windows without door and chimney . <end>
+8880.png	<start> A house has a door , window and chimney . <end>
+18561.png <start> A tree has a trunk without branch and root . <end>
+18561.png <start> A tree has not branch and root . <end>
+18562.png <start> A tree has a wide trunk and many branches without root . <end>
+18562.png <start> A tree has not root . <end>
+18563.png <start> A tree has a trunk without root and branch . <end>
+18563.png <start> A tree has not root and branch . <end>
+18564.png <start> A tree has a trunk without branch and root . <end>
+18564.png <start> A tree has not branch and root . <end>
+18565.png <start> A tree has a trunk without branch and root . <end>
+18565.png <start> A tree has not branch and root . <end>
+18566.png <start> A tree has a trunk without branch and root . <end>
+18566.png <start> A tree has not branch and root . <end>
+18567.png <start> A tree has a thin trunk and many brances without root . <end>
+18567.png <start> A tree has a thin trunk and many brances . <end>
+18568.png <start> A tree has a thin trunk without branch and root . <end>
+18568.png <start> A tree has not branch and root . <end>
+18569.png <start> A tree has a trunk without branch and root . <end>
+18569.png <start>  A tree has not branch and root . <end>
+18570.png <start> A tree has a trunk without branch and root . <end>
+18570.png <start>  A tree has not branch and root . <end>
+18571.png <start> A tree has a trunk without branch and root . <end>
+18571.png <start>  A tree has not branch and root . <end>
+18572.png <start> A tree has a trunk without branch and root . <end>
+18572.png <start>  A tree has not branch and root . <end>
+18573.png <start> A tree has a branch and crown . <end>
+18573.png <start> A tree has branches  . <end>
+18574.png <start> A tree has a wide trunk without branch. <end>
+18574.png <start> A tree has a wide trunk and crown . <end>
+18575.png <start> A tree has a trunk and flower without branch . <end>
+18575.png <start> A tree has flowers without branch . <end>
+18576.png <start> A tree has a wide trunk without root . <end>
+18576.png <start> A tree has a wide trunk . <end>
+18577.png <start> A tree has a trunk without branch and root . <end>
+18577.png <start> A tree has a trunk without root . <end>
+18578.png <start> A tree has a trunk and branches without root . <end>
+18578.png <start> A tree has branches without root . <end>
+18579.png <start> A tree has a trunk without root . <end>
+18579.png <start> A tree has not root . <end>
+18580.png <start> A tree has a trunk and branch without root  . <end>
+18580.png <start> A tree has branches without root  . <end>
+18581.png <start> A tree has a thin trunk without branch and root . <end>
+18581.png <start> A tree has a thin trunk . <end>
+18582.png <start> A tree has a trunk without branch and root . <end>
+18582.png <start> A tree has a trunk . <end>
+18583.png <start> A tree has a trunk and branches . <end>
+18583.png <start> A tree has branches . <end>
+18584.png <start> A tree has a thin trunk and branches without root . <end>
+18584.png <start> A tree has a thin trunk and branches . <end>
+18585.png <start> A tree has a trunk without branch and root . <end>
+18585.png <start> A tree has not branch and root . <end>
+18586.png <start> A tree has a trunk and branch . <end>
+18586.png <start> A tree has branches . <end>
+18587.png <start> A tree has a trunk without branch and root . <end>
+18587.png <start> A tree has a trunk without root . <end>
+18588.png <start> A tree has a trunk and branches . <end>
+18588.png <start> A tree has branches . <end>
+18589.png <start> A tree has a wide trunk without branches and root. <end>
+18589.png <start> A tree has a wide trunk root. <end>
+18590.png <start> A tree has a wide trunk , branches and root . <end>
+18590.png <start> A tree has branches and root . <end>
+18591.png <start> A tree has a wide trunk and branches without root . <end>
+18591.png <start> A tree has branches without root . <end>
+18592.png <start> A tree has a trunk without branch and root . <end>
+18592.png <start> A tree has not branch and root . <end>
+18593.png <start> A tree has a thin trunk , branches and root . <end>
+18593.png <start> A tree has a thin trunk and root . <end>
+18594.png <start> A tree has a trunk without branch and root . <end>
+18594.png <start> A tree has not branches and root . <end>
+18595.png <start> A tree has a wide trunk without branch and root . <end>
+18595.png <start> A tree has not branch and root . <end>
+18596.png <start> A tree has a trunk and without branch and root . <end>
+18596.png <start> A tree has not branch and root . <end>
+18597.png <start> A tree has a wide trunk and root without branch . <end>
+18597.png <start> A tree has a wide trunk and root . <end>
+18598.png <start> A tree has a thin trunk without branch and root . <end>
+18598.png <start> A tree has a thin trunk . <end>
+18599.png <start> A tree has a wide trunk without branches and root . <end>
+18599.png <start> A tree has not branches and root . <end>
+18600.png <start> A tree has a thin trunk and root without branch . <end>
+18600.png <start> A tree has a thin trunk and root . <end>
+18601.png <start> A tree has a wide trunk without branch and root . <end>
+18601.png <start> A tree has not branch and root . <end>
+18602.png <start> A tree has a wide trunk without branch and root . <end>
+18602.png <start> A tree has not branch and root . <end>
+18603.png <start> A tree has a trunk without branch and root . <end>
+18603.png <start> A tree has not branch and root . <end>
+18604.png <start> A tree has a trunk and branch without root . <end>
+18604.png <start> A tree has a trunk and branch . <end>
+18605.png <start> A tree has trunk without branch and root . <end>
+18605.png <start> A tree has not branch and root . <end>
+18606.png <start> A tree has a trunk, branch and root . <end>
+18606.png <start> A tree has branch and root . <end>
+18607.png <start> A tree has a trunk without branch and root . <end>
+18607.png <start> A tree has not branch and root . <end>
+18608.png <start> A tree has a trunk without branch and root . <end>
+18608.png <start> A tree has not branch and root . <end>
+18609.png <start> A tree has a trunk , branches and root . <end>
+18609.png <start> A tree has branches and root . <end>
+18610.png <start> A tree has a trunk , branches and root . <end>
+18610.png <start> A tree has branches and root . <end>
+18611.png <start> A tree has a trunk , branches and root . <end>
+18611.png <start> A tree has branches and root . <end>
+18612.png <start> A tree has a trunk without branch and root . <end>
+18612.png <start> A tree has not branch and root . <end>
+18613.png <start> A tree has a trunk without branch and root . <end>
+18613.png <start> A tree has not branch and root . <end>
+18614.png <start> A tree has a trunk without branch and root . <end>
+18614.png <start> A tree has not branch and root . <end>
+18615.png <start> A tree has a wide trunk without branch and root . <end>
+18615.png <start> A tree has a wide trunk . <end>
+18616.png <start> A tree has a wide trunk without branch and root . <end>
+18616.png <start> A tree has not branch and root . <end>
+18617.png <start> A tree has a trunk and branch without root . <end>
+18617.png <start> A tree has a trunk and branch . <end>
+18618.png <start> A tree has a trunk without branch and root . <end>
+18618.png <start> A tree has not branch and root . <end>
+18619.png <start> A tree has a trunk without branch and root . <end>
+18619.png <start> A tree has not branch and root . <end>
+18620.png <start> A tree has a trunk and branches without root . <end>
+18620.png <start> A tree has a trunk and branches . <end>
+18621.png <start> A tree has a trunk without branch and root . <end>
+18621.png <start> A tree has not branch and root . <end>
+18622.png <start> A tree has a trunk and many brances without root . <end>
+18622.png <start> A tree has a trunk and many brances . <end>
+18623.png <start> A tree has a trunk without branch and root . <end>
+18623.png <start> A tree has not branch and root . <end>
+18624.png <start> A tree has a trunk and branches without root . <end>
+18624.png <start> A tree has a trunk and branches . <end>
+18625.png <start> A tree has a trunk without branch and root . <end>
+18625.png <start> A tree has not branch and root . <end>
+18626.png <start> A tree has a trunk without branch and root . <end>
+18626.png <start> A tree has not branch and root . <end>
+18627.png <start> A tree has a trunk without branch and root . <end>
+18627.png <start> A tree has not branch and root . <end>
+18628.png <start> A tree has a thin trunk , branch and root . <end>
+18628.png <start> A tree has a thin trunk and root . <end>
+18629.png <start> A tree has a trunk without branch and root . <end>
+18629.png <start> A tree has not branch and root . <end>
+18630.png <start> A tree has a trunk without branch and root . <end>
+18630.png <start> A tree has not branch and root . <end>
+18631.png <start> A tree has a trunk and branches without root . <end>
+18631.png <start> A tree has a trunk and branches . <end>
+18632.png <start> A tree has a wide trunk without branch and root . <end>
+18632.png <start> A tree has not branch and root . <end>
+18633.png <start> A tree has a trunk and branches without root . <end>
+18633.png <start> A tree has a trunk and branches . <end>
+18634.png <start> A tree has a trunk , branches and root . <end>
+18634.png <start> A tree has branches and root . <end>
+18635.png <start> A tree has a trunk without branch and root . <end>
+18635.png <start> A tree has not branch and root . <end>
+18636.png <start> A tree has a trunk without branch and root . <end>
+18636.png <start> A tree has not branch and root . <end>
+18637.png <start> A tree has a trunk and branches without root . <end>
+18637.png <start> A tree has a trunk and branches . <end>
+18638.png <start> A tree has a trunk without branch and root . <end>
+18638.png <start> A tree has not branch and root . <end>
+18639.png <start> A tree has a trunk and root without branch. <end>
+18639.png <start> A tree has a trunk and root . <end>
+18640.png <start> A tree has a trunk without branch and root . <end>
+18640.png <start> A tree has not branch and root . <end>
+12161.png   <start> A stickman has face . <end>
+12161.png   <start> A stickman has smile face . <end>
+12162.png   <start> A stickman has smile face . <end>
+12162.png   <start> A stickman has face . <end>
+12163.png   <start> A person has face and hair . <end>
+12163.png   <start> A person has face and hair without clothes . <end>
+12164.png   <start> A walking person has hair . <end>
+12164.png   <start> A walking person has hair and wearing the clothes . <end>
+12165.png   <start> A person wearing the clothes is walking . <end>
+12166.png   <start> A walking person has hair and face . <end>
+12166.png   <start> A walking person  is wearing the clothes . <end>
+12167.png   <start> A stickman has face . <end>
+12167.png   <start> A stickman has smile face . <end>
+12168.png   <start> A person is wearing the clothes . <end>
+12168.png   <start> A person is wearing the clothes and has hair . <end>
+12169.png   <start> A running person has hair and face . <end>
+12169.png   <start> A person has hair and face . <end>
+12170.png   <start> A person is wearing the clothes . <end>
+12170.png   <start> A walking person is wearing the clothes . <end>
+12171.png   <start> A stickman has smile face . <end>
+12171.png   <start> A stickman has face . <end>
+12172.png   <start> A person is wearing the clothes . <end>
+12172.png   <start> A person is wearing the clothes and has hair . <end>
+12173.png   <start> A person is walking without face . <end>
+12173.png   <start> A person is walking without face and hair . <end>
+12174.png   <start> A person is walking without face . <end>
+12174.png   <start> A person is wearing the clothes without face . <end>
+12175.png   <start> A person is weraing the clothes . <end>
+12175.png   <start> A person is weraing the clothes without face. <end>
+12176.png   <start> A person has hair . <end>
+12176.png   <start> A person has hair and weraing the clothes . <end>
+12177.png   <start> A walking person is wearing the clothes and has hair . <end>
+12177.png   <start> A walking person is wearing the clothes . <end>
+12178.png   <start> A person has smile face without arm. <end>
+12178.png   <start> A person has smile face and wearing the clothes. <end>
+12179.png   <start> A person is wearing the clothes and has smile face . <end>
+12179.png   <start> A person has face and wearing the clothes . <end>
+12180.png   <start> A person is wearing the clothes without hair . <end>
+12180.png   <start> A person is wearing the clothes . <end>
+12181.png   <start> A person is walking without the clothes . <end>
+12181.png   <start> A person is walking without hair . <end>
+12182.png   <start> A stickman has smile face . <end>
+12182.png   <start> A stickman has face . <end>
+12183.png   <start> A walking person is wearing the clothes and has hair . <end>
+12183.png   <start> A walking person has hair and wearing the clothes . <end>
+12184.png   <start> A walking person is weraing the clothes and has hair . <end>
+12184.png   <start> A walking person has hair and wearing the clothes . <end>
+12185.png   <start> A person has face without the clothes . <end>
+12185.png   <start> A person has not a clothes . <end>
+12186.png   <start> A person is wearing the clothes and has face without hair . <end>
+12186.png   <start> A person is wearing the clothes and has face . <end>
+12187.png   <start> A person has smile face and hair . <end>
+12187.png   <start> A person has smile face and hair and wearing the clothes . <end>
+12188.png   <start> A person is wearing the clothes and has face and hair . <end>
+12188.png   <start>A person has face and hair and wearing the clothes . <end>
+12189.png   <start> A walking person has face without the clothes . <end>
+12189.png   <start> A walking person has face and hair . <end>
+12190.png   <start> A stickman is walking without face . <end>
+12190.png   <start> A stickman is without face . <end>
+12191.png   <start> A stickman is running . <end>
+12191.png   <start>A stickman is without face . <end>
+12192.png   <start> A person has face . <end>
+12192.png   <start> A person has face . <end>
+12193.png   <start> A person is walking without face . <end>
+12193.png   <start> A person is wearing a clothes without face . <end>
+12194.png   <start> A person is standing . <end>
+12194.png   <start> A person is without hair . <end>
+12195.png   <start> A person have no limbs . <end>
+12195.png   <start> A person has face . <end>
+12196.png   <start> A walking person person has no face . <end>
+12196.png   <start> A walking person person is wearing a clothes . <end>
+12197.png   <start> A person is walking . <end>
+12197.png   <start> A person is without face . <end>
+12198.png   <start> A stickman has no face . <end>
+12198.png   <start> A stickman is without face . <end>
+12199.png   <start> A stickman has no face and no hair . <end>
+12199.png   <start> A stickman is without face and hair . <end>
+12200.png   <start> A walking stickman has smile face . <end>
+12200.png   <start> A walking stickman has a face . <end>
+12201.png   <start> A person is walking without face . <end>
+12201.png   <start> A person is walking without hair . <end>
+12202.png   <start> A person weraing the clothes has hair and face . <end>
+12202.png   <start> A person has hair and face . <end>
+12203.png   <start> A person weraing the clothes has hair and face . <end>
+12203.png   <start> A person has hair and face . <end>
+12204.png   <start> A stickman has no face . <end>
+12204.png   <start> A stickman is without face . <end>
+12205.png   <start> A stickman has smile face . <end>
+12205.png   <start> A stickman has a face . <end>
+12206.png   <start> A stickman has smile face . <end>
+12206.png   <start> A stickman has a face . <end>
+12207.png   <start> A person has no limbs . <end>
+12207.png   <start> A person has a face . <end>
+12208.png   <start> A person has no face . <end>
+12208.png   <start> A person is without face . <end>
+12209.png   <start> A walking person is wearing the clothes with smile face . <end>
+12209.png   <start> A walking person has smile face . <end>
+12210.png   <start> A person has no face . <end>
+12210.png   <start> A person has no face and hair . <end>
+12211.png   <start> A person has hair and face . <end>
+12211.png   <start> A person  is wearing the clothes . <end>
+12212.png   <start> A person has no face . <end>
+12212.png   <start> A person is without face . <end>
+12213.png   <start> A walking stickman has face . <end>
+12213.png   <start> A stickman has face . <end>
+12214.png   <start> A person is walking without face . <end>
+12214.png   <start> A person has not face . <end>
+12215.png   <start> A person has no face and no hair . <end>
+12215.png   <start> A person has not face and hair . <end>
+12216.png   <start> A person has no face and no hair . <end>
+12216.png   <start> A person has not face and hair . <end>
+12217.png   <start> A stickman has no face and no hair . <end>
+12217.png   <start> A stickman has not face and hair .<end>
+12218.png   <start> A person has face and hair . <end>
+12218.png   <start> A person has hair . <end>
+12219.png   <start> A person has no face . <end>
+12219.png   <start> A person has no face and hair . <end>
+12220.png   <start> A walking person has no face . <end>
+12220.png   <start> A walking person is wearing the clothes . <end>
+12221.png   <start> A person has no face and no hair . <end>
+12221.png   <start> A person has not face and hair . <end>
+12222.png   <start> A person has no hair and no clothes . <end>
+12222.png   <start> A person has not face and hair . <end>
+12223.png   <start> A stickman has smile face . <end>
+12223.png   <start> A stickman has a face . <end>
+12224.png   <start> A person is wearing the clothes and has no hair . <end>
+12224.png   <start> A person is wearing the clothes and has smile face . <end>
+12225.png   <start> A person has face and hair . <end>
+12225.png   <start> A person is wearing the clothes and has face and hair . <end>
+12226.png   <start> A stickman has face without hair . <end>
+12226.png   <start> A stickman has face . <end>
+12227.png   <start> A person has no face . <end>
+12227.png   <start> A person is wearing the clothes and has no face . <end>
+12228.png   <start> A stickman has face without hair . <end>
+12228.png   <start> A stickman has face . <end>
+12229.png   <start> A stickman has face . <end>
+12229.png   <start> A stickman has smile face . <end>
+12230.png   <start> A person has face . <end>
+12230.png   <start> A person has face without hair . <end>
+12231.png   <start> A stickman has smile face . <end>
+12231.png   <start> A stickman has smile face without hair . <end>
+12232.png   <start> A person is wearing the clothes and has smile face . <end>
+12232.png   <start> A person has smile face and wearing the clothes . <end>
+12233.png   <start> A person is wearing the clothes and has smile face and hair . <end>
+12233.png   <start> A person has smile face and hair . <end>
+12234.png   <start> A person has limbs . <end>
+12234.png   <start> A person has a face . <end>
+12235.png   <start> A person is wearing the clothes and has hair and clothes with limbs . <end>
+12235.png   <start> A person is wearing the clothes and has face and hair . <end>
+12236.png   <start> A person is wearing the clothes and has hair and face . <end>
+12236.png   <start> A person has hair and face . <end>
+12237.png   <start> A person has no face . <end>
+12237.png   <start> A person has not face and hair . <end>
+12238.png   <start> A person has face and no hair without the clothes . <end>
+12238.png   <start> A person has face without thair  . <end>
+12239.png   <start> A person has face and hair without the clothes . <end>
+12239.png   <start> A person has face and hair . <end>
+12240.png   <start> A stickman has hair and smile face . <end>
+12240.png   <start> A stickman has smile face . <end>
