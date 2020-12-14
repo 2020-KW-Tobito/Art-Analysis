@@ -10,9 +10,9 @@
 Figure 1. Sketch image captioning model
 
 # Pre processing
-## 1. Stroke Color gradient
-## 2. Connected Component Labeling Alogorithm 
-## 3. Distance transform
+ 1. Stroke Color gradient
+ 2. Connected Component Labeling Alogorithm 
+ 3. Distance transform
 
 ![preprocessing](https://user-images.githubusercontent.com/50594187/102038456-a7c17280-3e0a-11eb-9a1a-d77c47588b51.PNG)
 
